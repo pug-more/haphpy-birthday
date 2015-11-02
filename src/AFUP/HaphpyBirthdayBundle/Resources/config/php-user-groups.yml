@@ -409,3 +409,13 @@ phpugdd:
    twitter:        phpugdd
    country:        Germany
    city:           Dresden
+
+kristiansand:
+   displayed_name: KristiansandPHP
+   full_name:      KristiansandPHP
+   parent:
+   picture:        kristiansand.svg
+   website:        http://kristiansandphp.org/
+   twitter:        KristiansandPHP
+   country:        Norway
+   city:           Kristiansand
