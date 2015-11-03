@@ -418,4 +418,14 @@ phpsrbija:
    website:        http://phpsrbija.rs/
    twitter:        phpsrbija
    country:        Serbia
-   city:           Belgrade
+   city:
+
+phpwomen:
+   displayed_name: PHPWomen
+   full_name:      PHPWomen
+   parent:         ~
+   picture:        phpwomen.png
+   website:        https://phpwomen.org/
+   twitter:        PHPWomen
+   country:        International
+   city:           ~
